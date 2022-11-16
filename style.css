@@ -1,0 +1,9 @@
+.bg-colore {
+    background-color: rgba(255, 196, 0, 0.241);
+}
+
+.btn-yellow {
+    border-color: goldenrod;
+    background-color: goldenrod;
+    color: whitesmoke;
+}
